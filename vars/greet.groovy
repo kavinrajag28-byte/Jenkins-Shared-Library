@@ -1,4 +1,4 @@
-def call(string msg='Welcome'){
+def call(String msg='Welcome'){
     echo "Message Recived is :${msg}"
     echo "Executed From Jenkins Sared Library"
 }
