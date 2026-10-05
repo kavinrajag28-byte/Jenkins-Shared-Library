@@ -1,0 +1,4 @@
+def call(string msg='Welcome'){
+    echo "Message Recived is :${msg}"
+    echo "Executed From Jenkins Sared Library"
+}
